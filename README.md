@@ -1,5 +1,5 @@
-Backend Dev
-Python and JS
+Backend Dev<br />
+Python and JS<br />
 Currently learning C
 
 <!---
